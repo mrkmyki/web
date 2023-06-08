@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    margin-left: 2rem; /* 左側にマージンを追加 */
+  }
+  
+  .container a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .container span {
+    margin: 0 0.5rem;
+  }
+  
